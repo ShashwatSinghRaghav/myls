@@ -3184,7 +3184,8 @@ button {
   height: 2px;
 }
 .skill-area-v1 {
-  padding-top: 300px;
+  padding-bottom: 210px;
+  width: 100%;
 }
 .skill-area-v1 .shape {
   position: absolute;
