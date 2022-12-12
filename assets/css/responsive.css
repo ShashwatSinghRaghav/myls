@@ -12,7 +12,7 @@
   .hero-banner-v1 .hero-content h1 {
     margin-bottom: 35px;
     font-size: 55px;
-    line-height: 90px;
+    line-height: 60px;
   }
   .cta-area-v1 .cta-wrapper .section-title h2 {
     font-size: 55px;
@@ -344,7 +344,7 @@
   .hero-banner-v2 .hero-content h1,
   .hero-banner-v1 .hero-content h1 {
     font-size: 40px;
-    line-height: 80px;
+    line-height: 60px;
   }
   .service-item {
     padding: 50px 35px 40px;
